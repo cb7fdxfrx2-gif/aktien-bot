@@ -1,7 +1,7 @@
 import requests
 import yfinance as yf
 
-TOKEN = "DEIN_TOKEN"
+TOKEN = "8551083477:AAEG9A_1SvvEe5-ILXnIFFVJbrxFvq6ulmc"
 CHAT_ID = "8233354282"
 
 def send(msg):
